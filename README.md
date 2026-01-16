@@ -41,15 +41,6 @@ Target Variable:
 - scaler.pkl – Feature scaler used for preprocessing  
 - requirements.txt – Required Python libraries  
 
-## How to Run the Project Locally
-1. Clone the repository  
-   git clone https://github.com/Aditi-k10/Logistic_Regression.git
-
-2. Install dependencies  
-   pip install -r requirements.txt
-
-3. Run the Streamlit application  
-   streamlit run app.py
 
 ## Deployment
 The application is deployed using Streamlit Cloud.
