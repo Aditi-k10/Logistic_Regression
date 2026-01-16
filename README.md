@@ -53,4 +53,5 @@ Target Variable:
 
 ## Deployment
 The application is deployed using Streamlit Cloud.
-The live deployment link will be added soon.
+Live Application:
+[https://YOUR_STREAMLIT_LINK_HERE](https://logisticregression-js6dbvoatj7n6aj6u9pkk3.streamlit.app/)
